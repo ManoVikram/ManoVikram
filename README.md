@@ -1,6 +1,6 @@
 # 👋 Hello
 ⌨️ I'm currently learning to test Flutter apps!</br></br>
-🖌️ Looking forward to learning about UI 'slash' UX design!</br></br>
+🖌️ Interested in learning UI 'slash' UX design!</br></br>
 🎞️ On the side I create videos on YouTube! - [@ManoVikram](https://youtube.com/ManoVikram/)</br></br>
 💬 One quote that inspires me - "You can't connect the dots looking forward; you can only connect them looking backwards" - Steve Jobs</br></br>
 📚 One book that I would recommend - The Subtle Art Of Not Giving A F*ck by Mark Manson</br></br>
