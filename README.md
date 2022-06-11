@@ -3,7 +3,7 @@
 🖌️ looking forward to learning about UI 'slash' UX design!</br></br>
 🎞️ on the side i create videos on YouTube! - [@ManoVikram](https://youtube.com/ManoVikram/)</br></br>
 💬 one quote that inspires me - "You can't connect the dots looking forward; you can only connect them looking backwards" - Steve Jobs</br></br>
-📚 &nbspone book that i would recommend - The Subtle Art Of Not Giving A F*ck by Mark Manson</br></br>
+📚 &nbsp one book that i would recommend - The Subtle Art Of Not Giving A F*ck by Mark Manson</br></br>
 🎤 &nbsplet's discuss design and building apps! | Twitter - [@ManoVik18](https://twitter.com/ManoVik18)</br>
 
 ## 🌐 Socials
