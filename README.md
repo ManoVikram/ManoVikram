@@ -1,9 +1,9 @@
 # 💫 About Me
-⌨️ i'm currently learning to test Flutter apps!</br>
-🖌️ looking forward to learning about UI 'slash' UX design!</br>
-🎞️ on the side i create videos on YouTube! - [@ManoVikram](https://youtube.com/ManoVikram/)</br>
-💬 one quote that inspires me - "You can't connect the dots looking forward; you can only connect them looking backwards" - Steve Jobs</br>
-📚 one book that i would recommend - The Subtle Art Of Not Giving A F*ck by Mark Manson</br>
+⌨️ i'm currently learning to test Flutter apps!</br></br>
+🖌️ looking forward to learning about UI 'slash' UX design!</br></br>
+🎞️ on the side i create videos on YouTube! - [@ManoVikram](https://youtube.com/ManoVikram/)</br></br>
+💬 one quote that inspires me - "You can't connect the dots looking forward; you can only connect them looking backwards" - Steve Jobs</br></br>
+📚 one book that i would recommend - The Subtle Art Of Not Giving A F*ck by Mark Manson</br></br>
 🎤 let's discuss design and building apps! | Twitter - [@ManoVik18](https://twitter.com/ManoVik18)</br>
 
 ## 🌐 Socials
