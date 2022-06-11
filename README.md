@@ -1,4 +1,4 @@
-# 💫 About Me
+# 👋 Hello
 ⌨️ i'm currently learning to test Flutter apps!</br></br>
 🖌️ looking forward to learning about UI 'slash' UX design!</br></br>
 🎞️ on the side i create videos on YouTube! - [@ManoVikram](https://youtube.com/ManoVikram/)</br></br>
