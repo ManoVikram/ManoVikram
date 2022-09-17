@@ -1,5 +1,5 @@
 # 👋 Hello
-⌨️ I'm currently trying to build games with Flutter!</br></br>
+⌨️ I'm currently learning to build games with Flutter!</br></br>
 🖌️ Interested in learning UI 'slash' UX design!</br></br>
 🎞️ On the side I create videos on YouTube! - [@ManoVikram](https://youtube.com/ManoVikram/)</br></br>
 💬 One quote that inspires me - "You can't connect the dots looking forward; you can only connect them looking backwards" - Steve Jobs</br></br>
